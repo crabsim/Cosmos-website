@@ -379,6 +379,7 @@ table a, #comments a{background-color:inherit;}
 	.btn,.btn.inverse:hover{margin-right: 1px;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
-	footer{margin-top: 88px;}
+	footer{margin-top: 88px;margin-left: 24px;
+	}
 	#header #quickinfo li{margin-right:0;}
 }
