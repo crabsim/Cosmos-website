@@ -366,7 +366,7 @@ table a, #comments a{background-color:inherit;}
 	#pageintro .heading{font-size:2rem;}
 
 	.sectiontitle{max-width:none; text-align:center;}
-
+	.timer2{display: block;}
 	#footer{padding-bottom:30px;}/* Not needed, just looks better. Compensates for the grid elements bottom margin when stacked */
 }
 
