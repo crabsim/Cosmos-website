@@ -8,7 +8,7 @@
  }
 
  function start(){
-     var sec=((new Date("September 15 2019 11:00").getTime())-(new Date().getTime()))/1000;
+     var sec=((new Date("September 14 2019 10:00").getTime())-(new Date().getTime()))/1000;
      var hours=check(Math.floor(sec/(60*60)));
      sec=sec%(60*60);
      var min=check(Math.floor(sec/60));

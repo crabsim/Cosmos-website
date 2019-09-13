@@ -320,7 +320,7 @@ table a, #comments a{background-color:inherit;}
 @media screen and (min-width:978px){
 	.hoc{max-width:978px;}
 	.btn,.btn.inverse:hover{margin-left: 398px;}
-	footer{margin-top: 59px;}
+	footer{margin-top: 59px;margin-left: 9%;}
 	.one_quarter{margin-left: 39%;}
 	.timer2{display:none;}
 }
